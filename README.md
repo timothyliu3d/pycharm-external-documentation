@@ -3,7 +3,7 @@
 | Module Name | URL/Path Pattern                                                                                  |
 |-------------|---------------------------------------------------------------------------------------------------|
 | `bpy`       | `https://docs.blender.org/api/current/{module.name}.html#{element.qname}`                         |
-| `nextcord`  | `https://docs.nextcord.dev/en/stable/api.html#{element.qname}`                                    |
+| `discord`   | `https://discordpy.readthedocs.io/en/stable/api.html#discord.{class.name}.{element.name}`         |
 | `hou`       | `https://www.sidefx.com/docs/houdini/hom/{module.name}/{class.name}.html#{element.name}`          |
 | `maya.cmds` | `https://help.autodesk.com/cloudhelp/2026/ENU/Maya-Tech-Docs/CommandsPython/{element.name}.html`  |
 | `PySide6`   | `https://doc.qt.io/qtforpython-6/{module.name.slashes}/{class.name.slashes}.html#{element.qname}` |
